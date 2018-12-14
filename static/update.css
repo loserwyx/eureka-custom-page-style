@@ -1,0 +1,32 @@
+/* 分割线样式 */
+.form-section {
+    margin: 0px 0px 25px 0px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #808080;
+}
+.table th {
+    background-color: #fff !important;
+}
+.divStyle {
+    padding: 10px;
+    background-color: #fff !important;
+}
+.table th {
+    color: #808080 !important;
+}
+.table {
+    color: #808080 !important;
+}
+.fontColor {
+    color: #808080 !important;
+}
+.table thead {
+    color: red !important;
+}
+.blockMarign {
+    margin-top: 15px;
+}
+.table > thead > tr > th {
+    vertical-align: bottom;
+    border-bottom: 1px solid #808080;
+}
